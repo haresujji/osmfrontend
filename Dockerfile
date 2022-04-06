@@ -1,4 +1,4 @@
-FROM node:13.8.1
+FROM ubuntu:16.04
 
 WORKDIR /osm_frontend
 
